@@ -27,7 +27,7 @@ make
 
 ```
 
-have a look here: http://source.monodevelop.com/
+Have a look here: https://monodevelop.com/
 
 # (Outdated) Readme from MonoDevelop:
 
