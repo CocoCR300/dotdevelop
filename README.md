@@ -1,3 +1,5 @@
+![DotDevelop Logo](/main/art/dotdevelop.svg)
+
 **PLEASE NOTE!**
 
 This is an effort to get MonoDevelop open sourced again.
