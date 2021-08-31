@@ -1,18 +1,18 @@
 **PLEASE NOTE!**
 
-This is an effort to get monodevelop open sourced again.
+This is an effort to get MonoDevelop open sourced again.
 
-**DotDevelop** will hopefully a full-featured integrated development environment (IDE) for .dotnet using Gtk.
+**DotDevelop** will hopefully be a full-featured integrated development environment (IDE) for .NET using GTK#.
 
 **Current Status**
 
 This branch is based on the last commit on 29 Jan 2020 (https://github.com/mono/monodevelop/commit/96b42aa0741af179a8e501f426b6ff5451c27264)
 
-It was refactored to compile / run again on linux. Other platforms will follow.
+It was refactored to compile/run again on Linux. Other platforms will follow.
 
 **Contributors**
 
-to hack around, get a compiling copy as follows:
+To hack around, get a compiling copy as follows:
 
 ```
 git clone -b main https://github.com/dotdevelop/dotdevelop.git
@@ -27,7 +27,7 @@ make
 
 have a look here: http://source.monodevelop.com/
 
-# (outdated) ReadMe from MonoDevelop:
+# (Outdated) Readme from MonoDevelop:
 
 Directory organization
 ----------------------
